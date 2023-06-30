@@ -117,9 +117,7 @@ export default function Product({ CurrencyProduct }: ProductProps) {
                             <button disabled={isCreatingCheckoutSession} onClick={() => addItem?.(CurrencyProduct)}>
                                 Adicionar ao Carrinho
                             </button>
-                            <button disabled={isCreatingCheckoutSession} onClick={handleBuyProduct}>
-                                Comprar Agora
-                            </button>
+                         
                         </ButtonsContainer>
 
                     </ProductDetails>
