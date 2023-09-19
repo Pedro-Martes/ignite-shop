@@ -2,7 +2,12 @@
 # Next Shop - e-comercie 👕
 Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.🛒💳
 
-# 🚀 Imagens
+## 🌐Acesso Online
+
+O projeto está disponível online no seguinte link:
+[NextShop.com](https://ignite-shop-delta-two.vercel.app/)
+
+# Imagens
 ![Texto Alternativo da Imagem](https://i.imgur.com/lqHwfw3.png)
 
 ![Texto Alternativo da Imagem](https://i.imgur.com/0ywRiDa.png)
@@ -10,10 +15,6 @@ Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camis
 ![Texto Alternativo da Imagem](https://i.imgur.com/7GvfV6q.png)
 
 
-## 🌐Acesso Online
-
-O projeto está disponível online no seguinte link:
-[NextShop.com](https://ignite-shop-delta-two.vercel.app/)
 
 ## 📌 Visão Geral
 
