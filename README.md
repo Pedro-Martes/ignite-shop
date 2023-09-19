@@ -2,6 +2,7 @@
 # Next Shop - e-comercie 👕
 Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.🛒💳
 
+# 🚀 Imagens
 ![Texto Alternativo da Imagem](https://i.imgur.com/lqHwfw3.png)
 
 ![Texto Alternativo da Imagem](https://i.imgur.com/0ywRiDa.png)
