@@ -20,7 +20,7 @@ function CartEntry({ entry }: { entry: ICartEntry }) {
     return (
         <ItemCartMenu key={entry.id}>
             <ImageContainer>
-                <Image src={entry.image} alt='' width={90} height={90} priority={true} />
+                <Image src={entry.image ?? ''} alt='' width={90} height={90} priority={true} />
             </ImageContainer>
 
             <PriceContainer>
