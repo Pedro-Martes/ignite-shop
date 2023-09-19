@@ -1,38 +1,86 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Texto Alternativo da Imagem](https://ignite-shop-delta-two.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.17cc8070.png&w=256&q=75) 
+# Next Shop - Venda de camisas
+Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.
 
-## Getting Started
+![Texto Alternativo da Imagem](https://i.imgur.com/lqHwfw3.png)
 
-First, run the development server:
+![Texto Alternativo da Imagem](https://i.imgur.com/0ywRiDa.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+![Texto Alternativo da Imagem](https://i.imgur.com/7GvfV6q.png)
+
+
+## ⚡Acesso Online
+
+O projeto está disponível online no seguinte link:
+[NextShop.com](https://ignite-shop-delta-two.vercel.app/)
+
+## 🎯 Visão Geral
+
+Este projeto é uma demonstração de uma plataforma de comércio eletrônico para venda de camisas, com integração direta ao Stripe. Os usuários podem realizar compras de camisas online de forma simples e segura.
+
+## 🤖 Funcionalidades Principais
+
+- **Integração com Stripe:**  Este comércio eletrônico integra-se ao Stripe, onde todos os detalhes dos produtos são armazenados, e o Stripe gerencia o processo de pagamento de cada produto. Isso permite que os usuários comprem quantos produtos desejarem com facilidade e segurança.
+
+- **Carrinho de compras:** Os usuários podem adicionar e remover camisas do carrinho de compras, proporcionando uma experiência de compra flexível e conveniente.
+
+- **SSR e SSG:**  Neste projeto, foi utilizado o framework Next.js para aproveitar a Renderização do Lado do Servidor (SSR), que permite gerar páginas no servidor e entregá-las como HTML completo para o navegador, melhorando o desempenho do carregamento inicial. Além disso, o Next.js oferece a Geração de Páginas Estáticas (SSG), que é útil para criar páginas que não mudam com frequência e podem ser servidas como HTML estático, reduzindo a carga do servidor.
+
+
+
+
+## 👾 Tecnologias Utilizadas
+
+- **TypeScript:** Utilizado a linguagem TypeScript para desenvolver o projeto.
+
+- **React.JS:**  A interface do website é construída com React para criar componentes reutilizáveis e proporcionar uma experiência de usuário fluida.
+
+- **Axios:** Cliente HTTP utilizado para comunicação com o servidor.
+
+- **Next.js:** O Next.js é o framework de desenvolvimento web front-end usado neste projeto.
+
+- **Stitches:** Utilizado a biblioteca Stitches para personalizar os estilos dos componentes.
+
+- **Stripe:** O Stripe é a plataforma de pagamento online integrada ao projeto.
+
+- **Use-shopping-cart:** Implementamos a biblioteca Use-shopping-cart para facilitar a criação de funcionalidades de carrinho de compras em aplicativos da web.
+
+- **Keen-slide:** Utilizei a biblioteca Keen-slide para criar sliders e carrosséis de forma intuitiva.
+
+- **Radix-ui:** A biblioteca de componentes React Radix-ui é usada para aprimorar a experiência do usuário.
+
+
+
+
+
+## 👨🏻‍💻 Como Iniciar o Projeto
+
+1. Clone o repositório para sua máquina local:
+
+   ```bash
+   git clone https://github.com/Pedro-Martes/ignite-shop
+   ```
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd ignite-shop
+   ```
+
+3. Instale as dependências:
+  ```bash
+   npm install
 ```
+4. Inicie o servidor de desenvolvimento:
+  ```bash
+   npm run dev
+```
+5. O website estará disponível em:
+  ```bash
+ http://localhost:3000
+ ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 😄 Agradecimentos
+Agradeço por visitar meu repositório. Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
