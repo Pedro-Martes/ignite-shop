@@ -1,6 +1,6 @@
 ![Texto Alternativo da Imagem](https://ignite-shop-delta-two.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.17cc8070.png&w=256&q=75) 
-# Next Shop - Venda de camisas
-Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.
+# Next Shop - e-comercie 👕
+Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.🛒💳
 
 ![Texto Alternativo da Imagem](https://i.imgur.com/lqHwfw3.png)
 
@@ -9,12 +9,12 @@ Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camis
 ![Texto Alternativo da Imagem](https://i.imgur.com/7GvfV6q.png)
 
 
-## ⚡Acesso Online
+## 🌐Acesso Online
 
 O projeto está disponível online no seguinte link:
 [NextShop.com](https://ignite-shop-delta-two.vercel.app/)
 
-## 🎯 Visão Geral
+## 📌 Visão Geral
 
 Este projeto é uma demonstração de uma plataforma de comércio eletrônico para venda de camisas, com integração direta ao Stripe. Os usuários podem realizar compras de camisas online de forma simples e segura.
 
@@ -29,7 +29,7 @@ Este projeto é uma demonstração de uma plataforma de comércio eletrônico pa
 
 
 
-## 👾 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **TypeScript:** Utilizado a linguagem TypeScript para desenvolver o projeto.
 
@@ -53,7 +53,7 @@ Este projeto é uma demonstração de uma plataforma de comércio eletrônico pa
 
 
 
-## 👨🏻‍💻 Como Iniciar o Projeto
+## 🏁 Como Iniciar o Projeto
 
 1. Clone o repositório para sua máquina local:
 
@@ -79,8 +79,8 @@ Este projeto é uma demonstração de uma plataforma de comércio eletrônico pa
  http://localhost:3000
  ```
 
-## 😄 Agradecimentos
-Agradeço por visitar meu repositório. Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
+## 🙌 Agradecimentos
+Agradeço por visitar meu repositório. Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.🙏😄
 
 
 
