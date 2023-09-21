@@ -1,5 +1,5 @@
-![Texto Alternativo da Imagem](https://ignite-shop-delta-two.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.17cc8070.png&w=256&q=75) 
-# Next Shop - e-comercie 👕
+# ![Texto Alternativo da Imagem](https://ignite-shop-delta-two.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.17cc8070.png&w=256&q=75) 
+
 Bem-vindo ao repositório do projeto Next Shop, um e-comercie de vendas de camisa desenvolvido no framework Next.js com integração ao Stripe.🛒💳
 
 ## 🌐Acesso Online
